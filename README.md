@@ -1,7 +1,7 @@
-## slock self-customized
 
-This is basically a repo containing the slock tool from suckless.org tools https://tools.suckless.org/slock/ slightly modified with my custom colors and changing default failonclear to 0.
-### Original readme 
+
+    This is basically a repo containing the slock tool from suckless.org tools https://tools.suckless.org/slock/ slightly modified with my custom colors and changing default failonclear to 0.
+
 
 slock - simple screen locker
 ============================
